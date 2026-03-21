@@ -1,0 +1,2 @@
+This folder contains projects related to numerical astrophysics and astrophysical simulations.  
+It also contains all my code relating to the book "Numerical Python in Astronomy and Astrophysics" by Wolfram Schmidt and Marcel Volschow.
